@@ -93,7 +93,7 @@
                     </dependency>
                 </dependencies>
                 <configuration>
-                    <swaggerInput>http://localhost:8090/v2/api-docs</swaggerInput>
+                    <swaggerInput>http://localhost:8100/v2/api-docs</swaggerInput>
                     <outputDir>${generated.asciidoc.directory}</outputDir>
                     <config>
                         <swagger2markup.markupLanguage>ASCIIDOC</swagger2markup.markupLanguage>
